@@ -1,6 +1,6 @@
 # ns3.42-with-ns3-gym
  본 깃은 ns-3의 3.42 버전에 ns3-gym을 적용하는데 있어서 발생하는 오류를 해결하기 위해 작성되었습니다.<br>
-ns-3 3.36+ 버전에 ns3-gym을 설치하려면 ns3-gym 3.36+을 참조해주세요.<br>
+ns-3 3.36+ 버전에 ns3-gym을 설치하려면 [ns3-gym 3.36+](https://github.com/tkn-tub/ns3-gym)을 참조해주세요.<br>
 ns-3의 3.36이상의 버전은 ./waf 대신 ./run을 사용합니다. 또한, CMAKE를 사용하는 등 이전 버전의 ns-3에 비하여 내부적으로 많은 변화가 생겼습니다.<br>
 
 ## linear-mesh sim.cc
